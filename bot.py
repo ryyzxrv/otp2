@@ -16,21 +16,21 @@ from telegram import InlineKeyboardMarkup, InlineKeyboardButton
 
 # --- Configuration ---
 BOT_NAME = "SherryOTP"
-USERNAME = "test123"
-PASSWORD = "test123"
+USERNAME = "test123" # USN PANEL LU
+PASSWORD = "test123" # PW PANEL LU
 DB_FILE = "sms_database_np.db" 
 
 # --- LINK BUTTON CONFIGURATION ---
 # Ganti link di bawah ini sesuai keinginan
-CHANNEL_LINK = "https://t.me/+gb5bX0DcYvI0NTRl"
-OWNER_LINK = "https://t.me/r4venxz"
+CHANNEL_LINK = "https://t.me/+gb5bX0DcYvI0NTRl" # LINK CH NUMBER
+OWNER_LINK = "https://t.me/r4venxz" # LINK AKUN TELE LU
 BUTTON_TEXT1 = "Number Channel 🚀"
 BUTTON_TEXT2 = "Owner 👑"
 
 # --- Telegram Configuration ---
-TELEGRAM_BOT_TOKEN = "8487453004:AAGbMqmK3VDiKdKNeuThPguvD27-MW_jgks"
-DEFAULT_GROUP_CHAT_ID = "-1003461550766" 
-DM_CHAT_ID = "7562165596" 
+TELEGRAM_BOT_TOKEN = "BOT_TOKEN_LU"
+DEFAULT_GROUP_CHAT_ID = "ID_GRUP_LU" 
+DM_CHAT_ID = "ID_LU" 
 
 # --- API Endpoints ---
 BASE_URL = "http://139.99.63.204/ints"
