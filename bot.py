@@ -16,8 +16,8 @@ from telegram import InlineKeyboardMarkup, InlineKeyboardButton
 
 # --- Configuration ---
 BOT_NAME = "SherryOTP"
-USERNAME = "Alijan11"
-PASSWORD = "Alijan11"
+USERNAME = "test123"
+PASSWORD = "test123"
 DB_FILE = "sms_database_np.db" 
 
 # --- LINK BUTTON CONFIGURATION ---
@@ -33,8 +33,8 @@ DEFAULT_GROUP_CHAT_ID = "-1003461550766"
 DM_CHAT_ID = "7562165596" 
 
 # --- API Endpoints ---
-BASE_URL = "http://51.77.221.209/ints"
-DOMAIN_URL = "http://51.77.221.209/ints"
+BASE_URL = "http://139.99.63.204/ints"
+DOMAIN_URL = "http://139.99.63.204/ints"
 LOGIN_PAGE_URL = f"{BASE_URL}/login"
 SMS_HTML_PAGE_URL = f"{BASE_URL}/client/SMSCDRStats" 
 
